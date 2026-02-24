@@ -33,7 +33,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add sub.txt
-        # 如果文件有更新则提交，没有更新则跳过
+        git add sub.yaml  # <--- 这里改成了 sub.yaml
         git commit -m "Auto-update optimal nodes" || echo "No changes to commit"
         git push
