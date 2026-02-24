@@ -17,25 +17,46 @@ except Exception as e:
     print(f"解析母版节点失败: {e}")
     exit(1)
 
-# 2. 获取 CF 优选 IP
-ip_api_url = "https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestcf.txt"
-try:
-    response = requests.get(ip_api_url, timeout=10)
-    ips = response.text.strip().split('\n')
-    valid_ips = [ip.strip() for ip in ips if ip.strip() and ':' not in ip][:30] 
-except Exception as e:
-    print(f"获取优选IP失败: {e}")
-    valid_ips = ["104.16.160.1", "104.18.2.2"]
+# 2. 多源 CF 优选 IP 库 (可随时增删)
+ip_api_urls = [
+    "https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestcf.txt",
+    "https://raw.githubusercontent.com/vfarid/cf-ip-scanner/main/ipv4.txt",
+    "https://raw.githubusercontent.com/ircfspace/cf2dns/master/list/ipv4.txt",
+    # Joey 和 ygkkk 通常使用动态测速脚本而非静态列表，
+    # 以上三个是圈内最稳定、由国内探针生成的静态直链库。
+]
 
-# 3. 组装 Clash YAML 代理节点 (Proxies) 列表
+all_ips = set() # 使用 set 自动去重
+
+# 3. 遍历所有源，抓取并清洗 IP
+for url in ip_api_urls:
+    try:
+        response = requests.get(url, timeout=10)
+        lines = response.text.strip().split('\n')
+        for line in lines:
+            line = line.strip()
+            # 过滤掉空行、注释和 IPv6(Clash处理v6有时会报错)
+            if line and not line.startswith('#') and ':' not in line:
+                # 兼容某些列表带有端口和延迟的格式 (如 IP,port,latency)
+                clean_ip = line.split(',')[0].strip()
+                all_ips.add(clean_ip)
+    except Exception as e:
+        print(f"从 {url} 获取IP失败: {e}")
+
+# 将去重后的 IP 列表转换为 list，并限制最大数量防止订阅文件过大导致客户端卡顿 (取前 60 个)
+valid_ips = list(all_ips)[:60]
+
+if not valid_ips:
+    valid_ips = ["104.16.160.1", "104.18.2.2"] # 终极保底
+
+# 4. 组装 Clash YAML
 proxies = []
 proxy_names = []
 
 for i, ip in enumerate(valid_ips):
-    node_name = f"🇺🇸 Argo-优选-{i+1}"
+    node_name = f"🇺🇸 Argo-优选池-{i+1}"
     proxy_names.append(node_name)
     
-    # 将 vmess 属性映射到 Clash 格式
     proxy = f"""  - name: "{node_name}"
     type: vmess
     server: {ip}
@@ -54,7 +75,7 @@ for i, ip in enumerate(valid_ips):
 """
     proxies.append(proxy)
 
-# 4. 构建完整的 Clash YAML 配置文件
+# 5. 构建完整配置
 clash_config = f"""port: 7890
 socks-port: 7891
 allow-lan: true
@@ -84,8 +105,7 @@ rules:
   - MATCH,🚀 节点选择
 """
 
-# 5. 写入文件 (注意后缀改成了 .yaml)
 with open("sub.yaml", "w", encoding='utf-8') as f:
     f.write(clash_config)
 
-print(f"成功生成 Clash 专属配置 sub.yaml！")
+print(f"成功聚合多个源，生成 {len(valid_ips)} 个去重优选节点，并写入 sub.yaml！")
