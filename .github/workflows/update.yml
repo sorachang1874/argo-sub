@@ -1,0 +1,39 @@
+name: Auto Update CF Nodes
+
+on:
+  schedule:
+    # 每天北京时间早上 6 点 (UTC 时间 22 点) 执行一次
+    - cron: '0 22 * * *'
+  workflow_dispatch: # 允许手动点击按钮触发运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 赋予写入代码仓库的权限
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run Node Generator
+      env:
+        VMESS_TEMPLATE: ${{ secrets.VMESS_TEMPLATE }}
+      run: python generate_sub.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add sub.txt
+        # 如果文件有更新则提交，没有更新则跳过
+        git commit -m "Auto-update optimal nodes" || echo "No changes to commit"
+        git push
