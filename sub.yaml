@@ -6,9 +6,9 @@ log-level: info
 ipv6: false
 
 proxies:
-  - name: "🇺🇸 Argo-优选-1"
+  - name: "🇺🇸 Argo-优选池-1"
     type: vmess
-    server: 198.41.212.130
+    server: 104.24.219.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -22,9 +22,9 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-2"
+  - name: "🇺🇸 Argo-优选池-2"
     type: vmess
-    server: 190.93.244.201
+    server: 104.19.68.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -38,9 +38,9 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-3"
+  - name: "🇺🇸 Argo-优选池-3"
     type: vmess
-    server: 104.16.232.223
+    server: 194.152.44.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -54,9 +54,9 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-4"
+  - name: "🇺🇸 Argo-优选池-4"
     type: vmess
-    server: 188.114.96.125
+    server: 172.70.210.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -70,9 +70,9 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-5"
+  - name: "🇺🇸 Argo-优选池-5"
     type: vmess
-    server: 104.16.241.229
+    server: 141.101.95.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -86,9 +86,9 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-6"
+  - name: "🇺🇸 Argo-优选池-6"
     type: vmess
-    server: 104.27.21.118
+    server: 104.24.234.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -102,9 +102,9 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-7"
+  - name: "🇺🇸 Argo-优选池-7"
     type: vmess
-    server: 190.93.246.67
+    server: 104.24.213.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -118,9 +118,9 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-8"
+  - name: "🇺🇸 Argo-优选池-8"
     type: vmess
-    server: 104.17.127.110
+    server: 104.18.10.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -134,9 +134,9 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-9"
+  - name: "🇺🇸 Argo-优选池-9"
     type: vmess
-    server: 198.41.214.141
+    server: 104.25.205.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -150,9 +150,9 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-10"
+  - name: "🇺🇸 Argo-优选池-10"
     type: vmess
-    server: 188.114.97.144
+    server: 104.29.8.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -166,9 +166,9 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-11"
+  - name: "🇺🇸 Argo-优选池-11"
     type: vmess
-    server: 104.25.105.1
+    server: 162.159.48.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -182,9 +182,9 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-12"
+  - name: "🇺🇸 Argo-优选池-12"
     type: vmess
-    server: 190.93.247.169
+    server: 104.18.48.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -198,9 +198,9 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-13"
+  - name: "🇺🇸 Argo-优选池-13"
     type: vmess
-    server: 104.20.255.53
+    server: 104.21.97.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -214,9 +214,9 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-14"
+  - name: "🇺🇸 Argo-优选池-14"
     type: vmess
-    server: 104.18.228.35
+    server: 172.71.230.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -230,9 +230,729 @@ proxies:
       headers:
         Host: argo-tunnel.111874.xyz
 
-  - name: "🇺🇸 Argo-优选-15"
+  - name: "🇺🇸 Argo-优选池-15"
     type: vmess
-    server: 104.21.91.19
+    server: 104.23.106.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-16"
+    type: vmess
+    server: 196.207.45.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-17"
+    type: vmess
+    server: 104.28.101.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-18"
+    type: vmess
+    server: 104.23.131.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-19"
+    type: vmess
+    server: 104.27.111.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-20"
+    type: vmess
+    server: 172.71.252.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-21"
+    type: vmess
+    server: 104.19.55.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-22"
+    type: vmess
+    server: 154.84.24.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-23"
+    type: vmess
+    server: 104.27.16.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-24"
+    type: vmess
+    server: 203.29.54.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-25"
+    type: vmess
+    server: 104.16.89.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-26"
+    type: vmess
+    server: 104.28.35.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-27"
+    type: vmess
+    server: 104.28.42.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-28"
+    type: vmess
+    server: 172.67.227.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-29"
+    type: vmess
+    server: 104.19.230.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-30"
+    type: vmess
+    server: 172.69.124.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-31"
+    type: vmess
+    server: 104.18.228.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-32"
+    type: vmess
+    server: 103.169.142.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-33"
+    type: vmess
+    server: 172.67.166.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-34"
+    type: vmess
+    server: 104.18.216.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-35"
+    type: vmess
+    server: 104.18.175.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-36"
+    type: vmess
+    server: 104.17.169.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-37"
+    type: vmess
+    server: 104.18.149.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-38"
+    type: vmess
+    server: 172.70.129.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-39"
+    type: vmess
+    server: 172.71.121.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-40"
+    type: vmess
+    server: 104.24.208.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-41"
+    type: vmess
+    server: 104.25.134.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-42"
+    type: vmess
+    server: 45.131.5.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-43"
+    type: vmess
+    server: 104.22.1.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-44"
+    type: vmess
+    server: 5.226.179.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-45"
+    type: vmess
+    server: 104.25.181.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-46"
+    type: vmess
+    server: 172.64.103.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-47"
+    type: vmess
+    server: 104.18.254.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-48"
+    type: vmess
+    server: 167.1.148.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-49"
+    type: vmess
+    server: 104.17.204.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-50"
+    type: vmess
+    server: 172.64.175.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-51"
+    type: vmess
+    server: 203.30.189.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-52"
+    type: vmess
+    server: 104.25.230.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-53"
+    type: vmess
+    server: 172.70.94.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-54"
+    type: vmess
+    server: 104.24.11.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-55"
+    type: vmess
+    server: 203.34.80.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-56"
+    type: vmess
+    server: 104.17.16.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-57"
+    type: vmess
+    server: 141.101.108.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-58"
+    type: vmess
+    server: 172.67.7.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-59"
+    type: vmess
+    server: 104.24.79.0/24
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 Argo-优选池-60"
+    type: vmess
+    server: 172.70.207.0/24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -252,21 +972,66 @@ proxy-groups:
     type: select
     proxies:
       - ♻️ 自动优选
-      - 🇺🇸 Argo-优选-1
-      - 🇺🇸 Argo-优选-2
-      - 🇺🇸 Argo-优选-3
-      - 🇺🇸 Argo-优选-4
-      - 🇺🇸 Argo-优选-5
-      - 🇺🇸 Argo-优选-6
-      - 🇺🇸 Argo-优选-7
-      - 🇺🇸 Argo-优选-8
-      - 🇺🇸 Argo-优选-9
-      - 🇺🇸 Argo-优选-10
-      - 🇺🇸 Argo-优选-11
-      - 🇺🇸 Argo-优选-12
-      - 🇺🇸 Argo-优选-13
-      - 🇺🇸 Argo-优选-14
-      - 🇺🇸 Argo-优选-15
+      - 🇺🇸 Argo-优选池-1
+      - 🇺🇸 Argo-优选池-2
+      - 🇺🇸 Argo-优选池-3
+      - 🇺🇸 Argo-优选池-4
+      - 🇺🇸 Argo-优选池-5
+      - 🇺🇸 Argo-优选池-6
+      - 🇺🇸 Argo-优选池-7
+      - 🇺🇸 Argo-优选池-8
+      - 🇺🇸 Argo-优选池-9
+      - 🇺🇸 Argo-优选池-10
+      - 🇺🇸 Argo-优选池-11
+      - 🇺🇸 Argo-优选池-12
+      - 🇺🇸 Argo-优选池-13
+      - 🇺🇸 Argo-优选池-14
+      - 🇺🇸 Argo-优选池-15
+      - 🇺🇸 Argo-优选池-16
+      - 🇺🇸 Argo-优选池-17
+      - 🇺🇸 Argo-优选池-18
+      - 🇺🇸 Argo-优选池-19
+      - 🇺🇸 Argo-优选池-20
+      - 🇺🇸 Argo-优选池-21
+      - 🇺🇸 Argo-优选池-22
+      - 🇺🇸 Argo-优选池-23
+      - 🇺🇸 Argo-优选池-24
+      - 🇺🇸 Argo-优选池-25
+      - 🇺🇸 Argo-优选池-26
+      - 🇺🇸 Argo-优选池-27
+      - 🇺🇸 Argo-优选池-28
+      - 🇺🇸 Argo-优选池-29
+      - 🇺🇸 Argo-优选池-30
+      - 🇺🇸 Argo-优选池-31
+      - 🇺🇸 Argo-优选池-32
+      - 🇺🇸 Argo-优选池-33
+      - 🇺🇸 Argo-优选池-34
+      - 🇺🇸 Argo-优选池-35
+      - 🇺🇸 Argo-优选池-36
+      - 🇺🇸 Argo-优选池-37
+      - 🇺🇸 Argo-优选池-38
+      - 🇺🇸 Argo-优选池-39
+      - 🇺🇸 Argo-优选池-40
+      - 🇺🇸 Argo-优选池-41
+      - 🇺🇸 Argo-优选池-42
+      - 🇺🇸 Argo-优选池-43
+      - 🇺🇸 Argo-优选池-44
+      - 🇺🇸 Argo-优选池-45
+      - 🇺🇸 Argo-优选池-46
+      - 🇺🇸 Argo-优选池-47
+      - 🇺🇸 Argo-优选池-48
+      - 🇺🇸 Argo-优选池-49
+      - 🇺🇸 Argo-优选池-50
+      - 🇺🇸 Argo-优选池-51
+      - 🇺🇸 Argo-优选池-52
+      - 🇺🇸 Argo-优选池-53
+      - 🇺🇸 Argo-优选池-54
+      - 🇺🇸 Argo-优选池-55
+      - 🇺🇸 Argo-优选池-56
+      - 🇺🇸 Argo-优选池-57
+      - 🇺🇸 Argo-优选池-58
+      - 🇺🇸 Argo-优选池-59
+      - 🇺🇸 Argo-优选池-60
       
   - name: ♻️ 自动优选
     type: url-test
@@ -274,21 +1039,66 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇺🇸 Argo-优选-1
-      - 🇺🇸 Argo-优选-2
-      - 🇺🇸 Argo-优选-3
-      - 🇺🇸 Argo-优选-4
-      - 🇺🇸 Argo-优选-5
-      - 🇺🇸 Argo-优选-6
-      - 🇺🇸 Argo-优选-7
-      - 🇺🇸 Argo-优选-8
-      - 🇺🇸 Argo-优选-9
-      - 🇺🇸 Argo-优选-10
-      - 🇺🇸 Argo-优选-11
-      - 🇺🇸 Argo-优选-12
-      - 🇺🇸 Argo-优选-13
-      - 🇺🇸 Argo-优选-14
-      - 🇺🇸 Argo-优选-15
+      - 🇺🇸 Argo-优选池-1
+      - 🇺🇸 Argo-优选池-2
+      - 🇺🇸 Argo-优选池-3
+      - 🇺🇸 Argo-优选池-4
+      - 🇺🇸 Argo-优选池-5
+      - 🇺🇸 Argo-优选池-6
+      - 🇺🇸 Argo-优选池-7
+      - 🇺🇸 Argo-优选池-8
+      - 🇺🇸 Argo-优选池-9
+      - 🇺🇸 Argo-优选池-10
+      - 🇺🇸 Argo-优选池-11
+      - 🇺🇸 Argo-优选池-12
+      - 🇺🇸 Argo-优选池-13
+      - 🇺🇸 Argo-优选池-14
+      - 🇺🇸 Argo-优选池-15
+      - 🇺🇸 Argo-优选池-16
+      - 🇺🇸 Argo-优选池-17
+      - 🇺🇸 Argo-优选池-18
+      - 🇺🇸 Argo-优选池-19
+      - 🇺🇸 Argo-优选池-20
+      - 🇺🇸 Argo-优选池-21
+      - 🇺🇸 Argo-优选池-22
+      - 🇺🇸 Argo-优选池-23
+      - 🇺🇸 Argo-优选池-24
+      - 🇺🇸 Argo-优选池-25
+      - 🇺🇸 Argo-优选池-26
+      - 🇺🇸 Argo-优选池-27
+      - 🇺🇸 Argo-优选池-28
+      - 🇺🇸 Argo-优选池-29
+      - 🇺🇸 Argo-优选池-30
+      - 🇺🇸 Argo-优选池-31
+      - 🇺🇸 Argo-优选池-32
+      - 🇺🇸 Argo-优选池-33
+      - 🇺🇸 Argo-优选池-34
+      - 🇺🇸 Argo-优选池-35
+      - 🇺🇸 Argo-优选池-36
+      - 🇺🇸 Argo-优选池-37
+      - 🇺🇸 Argo-优选池-38
+      - 🇺🇸 Argo-优选池-39
+      - 🇺🇸 Argo-优选池-40
+      - 🇺🇸 Argo-优选池-41
+      - 🇺🇸 Argo-优选池-42
+      - 🇺🇸 Argo-优选池-43
+      - 🇺🇸 Argo-优选池-44
+      - 🇺🇸 Argo-优选池-45
+      - 🇺🇸 Argo-优选池-46
+      - 🇺🇸 Argo-优选池-47
+      - 🇺🇸 Argo-优选池-48
+      - 🇺🇸 Argo-优选池-49
+      - 🇺🇸 Argo-优选池-50
+      - 🇺🇸 Argo-优选池-51
+      - 🇺🇸 Argo-优选池-52
+      - 🇺🇸 Argo-优选池-53
+      - 🇺🇸 Argo-优选池-54
+      - 🇺🇸 Argo-优选池-55
+      - 🇺🇸 Argo-优选池-56
+      - 🇺🇸 Argo-优选池-57
+      - 🇺🇸 Argo-优选池-58
+      - 🇺🇸 Argo-优选池-59
+      - 🇺🇸 Argo-优选池-60
 
 rules:
   - MATCH,🚀 节点选择
