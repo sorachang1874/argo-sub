@@ -8,7 +8,7 @@ ipv6: false
 proxies:
   - name: "🇺🇸 极速优选-1"
     type: vmess
-    server: 132.226.234.102
+    server: 141.147.165.128
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -24,7 +24,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-2"
     type: vmess
-    server: 141.145.205.115
+    server: 47.254.86.133
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -40,7 +40,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-3"
     type: vmess
-    server: 152.70.59.138
+    server: 8.222.219.140
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -56,7 +56,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-4"
     type: vmess
-    server: 8.222.219.140
+    server: 152.70.51.3
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -72,7 +72,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-5"
     type: vmess
-    server: 8.222.165.104
+    server: 130.162.165.64
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -88,7 +88,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-6"
     type: vmess
-    server: 47.242.218.87
+    server: 141.147.47.32
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -104,7 +104,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-7"
     type: vmess
-    server: 193.123.35.178
+    server: 141.144.197.136
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -120,7 +120,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-8"
     type: vmess
-    server: 143.47.183.52
+    server: 104.18.40.69
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -136,7 +136,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-9"
     type: vmess
-    server: 129.154.194.191
+    server: 104.18.46.168
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -152,7 +152,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-10"
     type: vmess
-    server: 104.19.36.115
+    server: 8.212.12.98
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -168,7 +168,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-11"
     type: vmess
-    server: 104.17.195.186
+    server: 8.222.255.80
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -184,7 +184,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-12"
     type: vmess
-    server: 150.230.204.132
+    server: 162.159.38.213
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -200,7 +200,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-13"
     type: vmess
-    server: 152.67.151.176
+    server: 141.147.85.167
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -216,7 +216,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-14"
     type: vmess
-    server: 47.74.155.26
+    server: 144.22.252.124
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -232,7 +232,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-15"
     type: vmess
-    server: 8.222.223.112
+    server: 141.145.205.115
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -248,7 +248,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-16"
     type: vmess
-    server: 8.219.254.1
+    server: 144.21.59.145
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -264,7 +264,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-17"
     type: vmess
-    server: 158.180.75.201
+    server: 155.248.182.161
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -280,7 +280,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-18"
     type: vmess
-    server: 141.144.196.32
+    server: 47.242.218.87
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -296,7 +296,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-19"
     type: vmess
-    server: 129.150.53.218
+    server: 8.219.243.132
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -312,7 +312,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-20"
     type: vmess
-    server: 162.159.3.42
+    server: 141.148.203.6
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -328,7 +328,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-21"
     type: vmess
-    server: 144.24.95.220
+    server: 129.158.198.241
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -344,7 +344,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-22"
     type: vmess
-    server: 8.219.255.49
+    server: 47.57.233.126
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -360,7 +360,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-23"
     type: vmess
-    server: 104.19.154.129
+    server: 8.219.63.79
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -376,7 +376,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-24"
     type: vmess
-    server: 132.145.245.100
+    server: 172.64.53.228
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -392,7 +392,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-25"
     type: vmess
-    server: 141.147.85.167
+    server: 130.162.34.176
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -408,7 +408,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-26"
     type: vmess
-    server: 130.162.34.176
+    server: 132.145.245.100
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -424,7 +424,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-27"
     type: vmess
-    server: 152.70.51.3
+    server: 143.47.183.52
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -440,7 +440,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-28"
     type: vmess
-    server: 141.144.198.93
+    server: 143.47.247.120
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -456,7 +456,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-29"
     type: vmess
-    server: 152.70.253.44
+    server: 141.148.245.210
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -472,7 +472,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-30"
     type: vmess
-    server: 150.230.63.93
+    server: 104.19.55.68
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -488,7 +488,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-31"
     type: vmess
-    server: 144.21.42.2
+    server: 141.144.198.93
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -504,7 +504,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-32"
     type: vmess
-    server: 146.56.96.206
+    server: 129.159.143.171
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -520,7 +520,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-33"
     type: vmess
-    server: 8.219.97.248
+    server: 144.21.42.2
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -536,7 +536,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-34"
     type: vmess
-    server: 162.159.11.200
+    server: 141.144.201.12
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -552,7 +552,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-35"
     type: vmess
-    server: 47.253.171.149
+    server: 144.24.95.220
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -568,7 +568,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-36"
     type: vmess
-    server: 143.47.191.188
+    server: 162.159.44.231
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -584,7 +584,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-37"
     type: vmess
-    server: 129.158.198.241
+    server: 8.219.254.1
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -600,7 +600,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-38"
     type: vmess
-    server: 104.19.48.49
+    server: 141.147.160.166
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -616,7 +616,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-39"
     type: vmess
-    server: 144.24.200.164
+    server: 152.70.59.138
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -648,7 +648,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-41"
     type: vmess
-    server: 8.219.236.218
+    server: 172.64.229.10
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -664,7 +664,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-42"
     type: vmess
-    server: 141.144.195.224
+    server: 168.138.165.174
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -680,7 +680,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-43"
     type: vmess
-    server: 132.145.94.80
+    server: 152.67.190.105
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -696,7 +696,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-44"
     type: vmess
-    server: 131.186.27.112
+    server: 47.253.171.149
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -712,7 +712,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-45"
     type: vmess
-    server: 8.219.189.155
+    server: 104.19.48.49
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -728,7 +728,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-46"
     type: vmess
-    server: 152.67.190.105
+    server: 140.238.58.181
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -744,7 +744,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-47"
     type: vmess
-    server: 130.162.209.188
+    server: 152.67.142.42
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -760,7 +760,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-48"
     type: vmess
-    server: 144.24.174.149
+    server: 152.70.253.44
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -776,7 +776,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-49"
     type: vmess
-    server: 140.238.58.181
+    server: 150.230.63.93
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -792,7 +792,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-50"
     type: vmess
-    server: 141.147.185.208
+    server: 8.219.189.155
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -808,7 +808,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-51"
     type: vmess
-    server: 152.67.142.42
+    server: 132.145.94.80
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -824,7 +824,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-52"
     type: vmess
-    server: 8.219.228.81
+    server: 152.70.104.175
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -840,7 +840,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-53"
     type: vmess
-    server: 138.2.81.71
+    server: 104.19.36.115
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -856,7 +856,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-54"
     type: vmess
-    server: 8.222.169.19
+    server: 8.212.65.162
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -872,7 +872,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-55"
     type: vmess
-    server: 192.9.180.162
+    server: 150.230.205.239
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -888,7 +888,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-56"
     type: vmess
-    server: 130.61.124.127
+    server: 150.230.121.114
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -904,7 +904,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-57"
     type: vmess
-    server: 8.222.255.80
+    server: 144.24.174.149
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -920,7 +920,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-58"
     type: vmess
-    server: 141.147.71.187
+    server: 47.74.155.26
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -936,7 +936,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-59"
     type: vmess
-    server: 132.226.16.97
+    server: 130.162.209.188
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -952,7 +952,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-60"
     type: vmess
-    server: 47.57.233.126
+    server: 104.19.156.188
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -968,7 +968,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-61"
     type: vmess
-    server: 104.19.156.188
+    server: 8.219.228.81
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -984,7 +984,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-62"
     type: vmess
-    server: 104.17.62.197
+    server: 8.222.165.104
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1000,7 +1000,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-63"
     type: vmess
-    server: 8.219.243.132
+    server: 104.17.195.186
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1016,7 +1016,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-64"
     type: vmess
-    server: 152.67.140.249
+    server: 192.9.180.162
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1032,7 +1032,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-65"
     type: vmess
-    server: 8.212.65.162
+    server: 130.61.124.127
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1048,7 +1048,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-66"
     type: vmess
-    server: 141.147.71.121
+    server: 104.17.59.12
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1064,7 +1064,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-67"
     type: vmess
-    server: 129.159.241.172
+    server: 129.154.202.229
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1080,7 +1080,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-68"
     type: vmess
-    server: 129.151.198.3
+    server: 152.70.240.162
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1096,7 +1096,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-69"
     type: vmess
-    server: 152.70.104.175
+    server: 8.222.169.19
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1112,7 +1112,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-70"
     type: vmess
-    server: 150.230.121.114
+    server: 8.219.255.49
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1128,7 +1128,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-71"
     type: vmess
-    server: 47.254.86.133
+    server: 131.186.27.112
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1144,7 +1144,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-72"
     type: vmess
-    server: 141.144.201.12
+    server: 129.154.194.191
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1160,7 +1160,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-73"
     type: vmess
-    server: 104.17.59.12
+    server: 144.24.140.37
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1176,7 +1176,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-74"
     type: vmess
-    server: 130.162.165.64
+    server: 129.151.198.3
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1192,7 +1192,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-75"
     type: vmess
-    server: 8.212.12.98
+    server: 193.123.35.178
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1208,7 +1208,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-76"
     type: vmess
-    server: 8.219.63.79
+    server: 152.67.140.249
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1224,7 +1224,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-77"
     type: vmess
-    server: 155.248.248.205
+    server: 132.226.16.97
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1240,7 +1240,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-78"
     type: vmess
-    server: 158.180.231.216
+    server: 144.24.200.164
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1256,7 +1256,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-79"
     type: vmess
-    server: 141.147.160.166
+    server: 143.47.189.30
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1272,7 +1272,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-80"
     type: vmess
-    server: 141.147.165.128
+    server: 150.230.118.203
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1288,7 +1288,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-81"
     type: vmess
-    server: 150.230.205.239
+    server: 129.159.129.107
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1304,7 +1304,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-82"
     type: vmess
-    server: 141.147.147.28
+    server: 172.64.52.219
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1320,7 +1320,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-83"
     type: vmess
-    server: 144.21.59.145
+    server: 150.230.204.132
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1336,7 +1336,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-84"
     type: vmess
-    server: 155.248.182.161
+    server: 8.222.223.112
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1352,7 +1352,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-85"
     type: vmess
-    server: 8.212.14.90
+    server: 150.136.87.192
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1368,7 +1368,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-86"
     type: vmess
-    server: 140.238.4.207
+    server: 129.159.241.172
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1384,7 +1384,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-87"
     type: vmess
-    server: 144.22.252.124
+    server: 146.56.96.206
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1400,7 +1400,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-88"
     type: vmess
-    server: 193.122.58.158
+    server: 141.144.195.224
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1416,7 +1416,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-89"
     type: vmess
-    server: 8.222.213.251
+    server: 132.226.234.102
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1432,7 +1432,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-90"
     type: vmess
-    server: 143.47.189.30
+    server: 140.238.4.207
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1448,7 +1448,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-91"
     type: vmess
-    server: 129.159.143.171
+    server: 129.150.53.218
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1464,7 +1464,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-92"
     type: vmess
-    server: 150.230.118.203
+    server: 141.147.71.187
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1480,7 +1480,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-93"
     type: vmess
-    server: 8.219.245.214
+    server: 162.159.39.9
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1496,7 +1496,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-94"
     type: vmess
-    server: 150.136.87.192
+    server: 8.219.97.248
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1512,7 +1512,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-95"
     type: vmess
-    server: 141.148.245.210
+    server: 162.159.23.175
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1528,7 +1528,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-96"
     type: vmess
-    server: 162.159.19.115
+    server: 8.222.213.251
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1544,7 +1544,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-97"
     type: vmess
-    server: 141.148.203.6
+    server: 143.47.191.188
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1560,7 +1560,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-98"
     type: vmess
-    server: 146.56.172.166
+    server: 8.219.245.214
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1576,7 +1576,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-99"
     type: vmess
-    server: 143.47.247.120
+    server: 138.2.81.71
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1592,7 +1592,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-100"
     type: vmess
-    server: 132.226.163.224
+    server: 146.56.172.166
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1608,7 +1608,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-101"
     type: vmess
-    server: 129.159.129.107
+    server: 132.226.163.224
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1624,7 +1624,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-102"
     type: vmess
-    server: 104.19.55.68
+    server: 141.147.71.121
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1640,7 +1640,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-103"
     type: vmess
-    server: 129.154.202.229
+    server: 104.17.62.197
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1656,7 +1656,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-104"
     type: vmess
-    server: 141.147.47.32
+    server: 141.147.147.28
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1672,7 +1672,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-105"
     type: vmess
-    server: 129.153.203.62
+    server: 104.19.154.129
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1688,7 +1688,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-106"
     type: vmess
-    server: 144.24.140.37
+    server: 162.159.45.30
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1704,7 +1704,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-107"
     type: vmess
-    server: 152.70.240.162
+    server: 155.248.248.205
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1720,7 +1720,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-108"
     type: vmess
-    server: 168.138.165.174
+    server: 141.144.196.32
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1736,7 +1736,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-109"
     type: vmess
-    server: 8.222.139.227
+    server: 193.122.58.158
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1752,7 +1752,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-110"
     type: vmess
-    server: 104.19.144.134
+    server: 8.212.14.90
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1768,7 +1768,119 @@ proxies:
 
   - name: "🇺🇸 极速优选-111"
     type: vmess
-    server: 141.144.197.136
+    server: 152.67.151.176
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 极速优选-112"
+    type: vmess
+    server: 8.222.139.227
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 极速优选-113"
+    type: vmess
+    server: 8.219.236.218
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 极速优选-114"
+    type: vmess
+    server: 158.180.231.216
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 极速优选-115"
+    type: vmess
+    server: 129.153.203.62
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 极速优选-116"
+    type: vmess
+    server: 104.19.144.134
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 极速优选-117"
+    type: vmess
+    server: 158.180.75.201
+    port: 443
+    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
+    alterId: 0
+    cipher: auto
+    tls: true
+    servername: argo-tunnel.111874.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
+      headers:
+        Host: argo-tunnel.111874.xyz
+
+  - name: "🇺🇸 极速优选-118"
+    type: vmess
+    server: 141.147.185.208
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -1899,6 +2011,13 @@ proxy-groups:
       - 🇺🇸 极速优选-109
       - 🇺🇸 极速优选-110
       - 🇺🇸 极速优选-111
+      - 🇺🇸 极速优选-112
+      - 🇺🇸 极速优选-113
+      - 🇺🇸 极速优选-114
+      - 🇺🇸 极速优选-115
+      - 🇺🇸 极速优选-116
+      - 🇺🇸 极速优选-117
+      - 🇺🇸 极速优选-118
       
   - name: ♻️ 自动测速优选
     type: url-test
@@ -2017,6 +2136,13 @@ proxy-groups:
       - 🇺🇸 极速优选-109
       - 🇺🇸 极速优选-110
       - 🇺🇸 极速优选-111
+      - 🇺🇸 极速优选-112
+      - 🇺🇸 极速优选-113
+      - 🇺🇸 极速优选-114
+      - 🇺🇸 极速优选-115
+      - 🇺🇸 极速优选-116
+      - 🇺🇸 极速优选-117
+      - 🇺🇸 极速优选-118
 
 rules:
   - MATCH,🚀 节点选择
