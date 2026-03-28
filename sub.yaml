@@ -8,7 +8,7 @@ ipv6: false
 proxies:
   - name: "🇺🇸 极速优选-1"
     type: vmess
-    server: 104.17.102.126
+    server: 104.19.32.34
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -24,7 +24,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-2"
     type: vmess
-    server: 172.64.229.86
+    server: 162.159.39.24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -40,7 +40,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-3"
     type: vmess
-    server: 108.162.193.253
+    server: 162.159.45.153
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -56,7 +56,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-4"
     type: vmess
-    server: 162.159.38.210
+    server: 172.64.48.13
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -72,7 +72,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-5"
     type: vmess
-    server: 172.64.52.168
+    server: 108.162.198.82
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -88,7 +88,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-6"
     type: vmess
-    server: 104.17.57.141
+    server: 104.17.218.119
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -104,7 +104,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-7"
     type: vmess
-    server: 104.17.100.183
+    server: 104.18.43.11
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -120,7 +120,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-8"
     type: vmess
-    server: 162.159.44.212
+    server: 162.159.44.183
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -136,7 +136,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-9"
     type: vmess
-    server: 104.17.106.140
+    server: 172.64.52.137
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -152,7 +152,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-10"
     type: vmess
-    server: 104.17.56.212
+    server: 152.69.209.132
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -168,7 +168,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-11"
     type: vmess
-    server: 162.159.60.238
+    server: 104.16.156.27
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -184,7 +184,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-12"
     type: vmess
-    server: 104.18.47.101
+    server: 104.16.151.185
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -200,7 +200,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-13"
     type: vmess
-    server: 104.18.95.91
+    server: 104.17.217.73
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -216,7 +216,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-14"
     type: vmess
-    server: 108.162.198.35
+    server: 104.19.147.119
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -232,7 +232,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-15"
     type: vmess
-    server: 172.64.53.251
+    server: 104.19.150.190
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -248,7 +248,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-16"
     type: vmess
-    server: 104.19.52.156
+    server: 104.17.184.98
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -264,7 +264,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-17"
     type: vmess
-    server: 104.17.98.182
+    server: 172.64.53.62
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -280,7 +280,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-18"
     type: vmess
-    server: 172.64.144.216
+    server: 162.159.38.220
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -296,7 +296,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-19"
     type: vmess
-    server: 162.159.45.48
+    server: 104.17.100.186
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -312,7 +312,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-20"
     type: vmess
-    server: 152.69.209.132
+    server: 172.64.229.11
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -328,7 +328,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-21"
     type: vmess
-    server: 162.159.39.246
+    server: 104.16.242.24
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
