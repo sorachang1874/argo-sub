@@ -8,7 +8,7 @@ ipv6: false
 proxies:
   - name: "🇺🇸 极速优选-1"
     type: vmess
-    server: 162.159.39.139
+    server: 104.16.144.119
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -24,7 +24,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-2"
     type: vmess
-    server: 108.162.198.92
+    server: 104.18.47.49
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -40,7 +40,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-3"
     type: vmess
-    server: 104.17.27.30
+    server: 198.41.209.107
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -56,7 +56,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-4"
     type: vmess
-    server: 104.17.107.164
+    server: 108.162.198.9
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -72,7 +72,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-5"
     type: vmess
-    server: 162.159.38.0
+    server: 162.159.39.60
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -88,7 +88,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-6"
     type: vmess
-    server: 162.159.24.34
+    server: 104.19.50.14
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -104,7 +104,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-7"
     type: vmess
-    server: 172.64.229.176
+    server: 162.159.38.124
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -120,7 +120,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-8"
     type: vmess
-    server: 104.17.208.56
+    server: 162.159.44.223
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -136,7 +136,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-9"
     type: vmess
-    server: 104.17.109.149
+    server: 172.64.52.188
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -152,7 +152,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-10"
     type: vmess
-    server: 172.64.52.53
+    server: 104.19.63.125
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -168,7 +168,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-11"
     type: vmess
-    server: 104.17.63.68
+    server: 104.18.44.242
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -184,7 +184,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-12"
     type: vmess
-    server: 172.64.156.93
+    server: 104.18.39.56
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -200,7 +200,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-13"
     type: vmess
-    server: 104.18.47.216
+    server: 152.69.209.132
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -216,7 +216,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-14"
     type: vmess
-    server: 152.69.209.132
+    server: 104.17.209.54
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -232,7 +232,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-15"
     type: vmess
-    server: 172.64.53.250
+    server: 162.159.45.151
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -248,7 +248,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-16"
     type: vmess
-    server: 162.159.45.210
+    server: 104.19.150.209
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -264,7 +264,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-17"
     type: vmess
-    server: 172.64.229.24
+    server: 104.17.213.38
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -280,7 +280,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-18"
     type: vmess
-    server: 172.64.145.125
+    server: 104.17.51.224
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -296,39 +296,7 @@ proxies:
 
   - name: "🇺🇸 极速优选-19"
     type: vmess
-    server: 104.19.159.77
-    port: 443
-    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
-    alterId: 0
-    cipher: auto
-    tls: true
-    servername: argo-tunnel.111874.xyz
-    skip-cert-verify: true
-    network: ws
-    ws-opts:
-      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
-      headers:
-        Host: argo-tunnel.111874.xyz
-
-  - name: "🇺🇸 极速优选-20"
-    type: vmess
-    server: 162.159.44.234
-    port: 443
-    uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
-    alterId: 0
-    cipher: auto
-    tls: true
-    servername: argo-tunnel.111874.xyz
-    skip-cert-verify: true
-    network: ws
-    ws-opts:
-      path: /5f1d6d32-76b3-4562-8982-df2b7c122708-vm
-      headers:
-        Host: argo-tunnel.111874.xyz
-
-  - name: "🇺🇸 极速优选-21"
-    type: vmess
-    server: 104.19.32.136
+    server: 172.64.53.42
     port: 443
     uuid: 5f1d6d32-76b3-4562-8982-df2b7c122708
     alterId: 0
@@ -367,8 +335,6 @@ proxy-groups:
       - 🇺🇸 极速优选-17
       - 🇺🇸 极速优选-18
       - 🇺🇸 极速优选-19
-      - 🇺🇸 极速优选-20
-      - 🇺🇸 极速优选-21
       
   - name: ♻️ 自动测速优选
     type: url-test
@@ -395,8 +361,6 @@ proxy-groups:
       - 🇺🇸 极速优选-17
       - 🇺🇸 极速优选-18
       - 🇺🇸 极速优选-19
-      - 🇺🇸 极速优选-20
-      - 🇺🇸 极速优选-21
 
 rules:
   - MATCH,🚀 节点选择
